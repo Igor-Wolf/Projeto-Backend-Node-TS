@@ -1,0 +1,22 @@
+
+
+[
+    {
+         "podcastName":"Ei Nerd Games",
+         "episode": "TUDO SOBRE ELDEN RING E FROMSOFTWARE - VICTOR KRATOS E ZERO #EiNerdGames 035 ",
+         "videoId": "7HscusF847Y",
+         "category":["entretenimento", "nerd", "games", "geek"]
+     },
+     {
+        "podcastName":"Outro nome",
+        "episode": "TUDO SOBRE ELDEN RING E FROMSOFTWARE - VICTOR KRATOS E ZERO #EiNerdGames 035 ",
+        "videoId": "7HscusF847Y",
+        "category":["entretenimento", "nerd", "games", "geek"]
+    },
+    {
+        "podcastName":"Arroz",
+        "episode": "TUDO SOBRE ELDEN RING E FROMSOFTWARE - VICTOR KRATOS E ZERO #EiNerdGames 035 ",
+        "videoId": "7HscusF847Y",
+        "category":["entretenimento", "nerd", "games", "geek"]
+    }
+]
